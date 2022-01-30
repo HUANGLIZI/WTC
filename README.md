@@ -17,6 +17,7 @@ dataset/ : the used dataset for the model
 
 utils/ : all the supplementary tools used for our Semi-WTC
 
+you can use the command "python main_demo.py" for demo training and testing.
 
 # Environment
 
