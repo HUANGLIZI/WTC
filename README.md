@@ -23,3 +23,8 @@ Please prepare an environment with python=3.8, and then use the command "pip ins
 
 # Experimental results for demo
 
+Confusion matrix:
+![image](https://github.com/HUANGLIZI/WTC/blob/main/img/CM.jpg)
+
+Acc & F1:
+![image](https://github.com/HUANGLIZI/WTC/blob/main/img/results.jpg)
