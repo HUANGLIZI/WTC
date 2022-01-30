@@ -1,4 +1,4 @@
 # WTC
-This repository includes the official project of WTC Model, presented in our paper: A Practically Semi-supervised Framework for Fine-grained Attack Categorization through Weight-task Consistency
+This repository includes the official project of WTC Model, presented in our paper: Semi-WTC: A Practical Semi-supervised Framework for Attack Categorization through Weight-Task Consistency
 
 More details of code will be open after the paper is accepted.
