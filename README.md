@@ -33,7 +33,7 @@ Acc & F1:
 
 ![image](https://github.com/HUANGLIZI/WTC/blob/main/img/results.jpg)
 
-Confusion matrix:
+Confusion Matrix:
 
 ![image](https://github.com/HUANGLIZI/WTC/blob/main/img/CM.jpg)
 
