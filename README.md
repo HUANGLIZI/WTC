@@ -3,7 +3,7 @@ This repository includes the official project of Semi-WTC Model, presented in ou
 
 ![image](https://github.com/HUANGLIZI/WTC/blob/main/img/Semi-WTC.jpg)
 
-**More details of README will be open after the paper is accepted.**
+**More details will be open after the paper is accepted.**
 
 *Paper Link*: 
 
