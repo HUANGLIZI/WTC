@@ -3,11 +3,11 @@ This repository includes the official project of Semi-WTC Model, presented in ou
 
 ![image](https://github.com/HUANGLIZI/WTC/blob/main/img/Semi-WTC.jpg)
 
-*More details of README will be open after the paper is accepted.*
+**More details of README will be open after the paper is accepted.**
 
-paper link:
+*paper link*: 
 
-Email:
+*Email*: zihanli@stu.xmu.edu.cn
 
 Please contact me if you need the dataset.
 
@@ -31,5 +31,4 @@ Acc & F1:
 Confusion matrix:
 
 ![image](https://github.com/HUANGLIZI/WTC/blob/main/img/CM.jpg)
-
 
