@@ -5,7 +5,7 @@ This repository includes the official project of Semi-WTC Model, presented in ou
 
 **More details of README will be open after the paper is accepted.**
 
-*paper link*: 
+*Paper Link*: 
 
 *Email*: zihanli@stu.xmu.edu.cn
 
@@ -17,7 +17,11 @@ dataset/ : the used dataset for the model
 
 utils/ : all the supplementary tools used for our Semi-WTC
 
+you can use the command "python AAR-NSLKDD.py" for ACTIVE ADAPTION RESAMPLING (AAR).
+
 you can use the command "python main_demo.py" for demo training and testing.
+
+At present, the demo file "main_demo.py" is under preparation.
 
 # Environment
 
