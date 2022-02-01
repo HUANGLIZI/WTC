@@ -27,7 +27,7 @@ At present, the demo file "main_demo.py" is under preparation.
 
 Please prepare an environment with python=3.8, and then use the command "pip install -r requirements.txt" for the dependencies.
 
-# Experimental results for demo
+# Experimental results for NSL-KDD demo
 
 Acc & F1:
 
