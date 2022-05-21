@@ -5,7 +5,7 @@ This repository includes the official project of Semi-WTC Model, presented in ou
 
 **More details will be open after the paper is accepted.**
 
-*Paper Link*: 
+*Paper Link*: https://arxiv.org/abs/2205.09669
 
 *Email*: zihanli@stu.xmu.edu.cn
 
