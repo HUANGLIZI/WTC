@@ -35,3 +35,13 @@ Confusion Matrix:
 
 ![image](https://github.com/HUANGLIZI/WTC/blob/main/img/CM.jpg)
 
+# Citation
+
+```bash
+@article{li2022semi,
+  title={Semi-WTC: A Practical Semi-supervised Framework for Attack Categorization through Weight-Task Consistency},
+  author={Li, Zihan and Chen, Wentao and Wei, Zhiqing and Luo, Xingqi and Su, Bing},
+  journal={arXiv preprint arXiv:2205.09669},
+  year={2022}
+}
+```
