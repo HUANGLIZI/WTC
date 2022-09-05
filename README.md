@@ -1,5 +1,5 @@
 # Semi-WTC
-This repository includes the official project of Semi-WTC Model, presented in our paper: Semi-WTC: A Practical Semi-supervised Framework for Attack Categorization through Weight-Task Consistency
+This repository includes the official project of Semi-WTC Model, presented in our paper: Semi-WTC: A Practical Semi-supervised Framework for Attack Categorization through Weight-Task Consistency (Under Major Revision)
 
 ![image](https://github.com/HUANGLIZI/WTC/blob/main/img/Semi-WTC.jpg)
 
